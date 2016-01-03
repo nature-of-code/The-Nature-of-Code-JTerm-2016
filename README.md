@@ -48,7 +48,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * Read p. 8-41 of Form + Code
   * Getting Started with p5.js: Chapters 1-3
   * [Videos 1.0-1.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-* Homework 1
+* [Homework 1](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Assignment-1)
 
 ## Class 2 -- Animation -- Tues, Jan 5
 * [The flow: code blocks, setup, draw, and events](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp03_flow)
