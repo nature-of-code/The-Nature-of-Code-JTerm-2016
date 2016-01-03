@@ -9,6 +9,8 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * Credit Hours 4
 * [Class google group for discussion / questions / announcements](https://groups.google.com/a/itp.nyu.edu/group/nature-of-code-abu-dhabi?hl=en)
 * [Homework wiki](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki)
+* [p5.js web site](http://p5js.org)
+* [p5.js web editor](http://p5ide.herokuapp.com/editor)
 
 ## Field Trips
 * [Museum of Math](http://momath.org/) - Friday, Jan 8, details TBA
