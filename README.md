@@ -1,4 +1,4 @@
-# The Nature of Code, NYUAD, JTerm 2016, New York
+# The Nature of Code, NYUAD, JTerm 2016, NYC
 
 Can we capture the unpredictable evolutionary and emergent properties of nature in software? Can understanding the mathematical principles behind our physical world world help us to create digital worlds? This class focuses on the programming strategies and techniques behind computer simulations of natural systems. We explore topics ranging from basic mathematics and physics concepts to more advanced simulations of complex systems. Subjects covered include forces, trigonometry, fractals, cellular automata, self-organization, and genetic algorithms. No computer programming experience is required, the course will start with the basics of code using HTML, CSS, and JavaScript (with the [p5js](http://p5js.org/) framework). In addition to learning technical skills and discussing scientific concepts, students will have the opportunity to visit science museums, art galleries, and artist studios in the London area. 
 
