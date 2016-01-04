@@ -20,7 +20,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * Possibly more TBA
 
 ## Class 1 -- Introduction -- Monday, Jan 4
-* Meets 2-5pm today (as to not conflict with morning orientation).
+* Meets 2-4:30pm today (as to not conflict with morning orientation).
 * What is computational media?
   * What is programming?
   * How can I apply programming to my field of interest?
