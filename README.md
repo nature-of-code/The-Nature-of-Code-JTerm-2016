@@ -29,8 +29,8 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * history of Processing and p5.js (and processing.js?)
 * Basics of web development
   * Landscape of HTML, CSS, and JavaScript?
-  * Development options -- [p5.js web IDE](https://github.com/therewasaguy/p5js-webIDE), [https://github.com/processing/p5.js-editor](p5.js desktop IDE), [your own local server](https://github.com/processing/p5.js/wiki/Local-server)
-  * [How to upload](https://github.com/ITPNYU/ICM-2015/wiki/SFTP-Tutorial)
+  * Development options -- [p5.js web IDE](https://github.com/therewasaguy/p5js-webIDE), [p5.js desktop IDE](https://github.com/processing/p5.js-editor), [your own local server](https://github.com/processing/p5.js/wiki/Local-server)
+  * Though this will be unnecessary since we are using the web IDE, you might also want to check out [how to upload](https://github.com/ITPNYU/ICM-2015/wiki/SFTP-Tutorial)
 * What is git and github?
 * [Drawing with numbers](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp01_drawing)
   * Coordinate Systems
@@ -40,7 +40,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * [Sol Lewitt](http://www.massmoca.org/lewitt/)
 * Basics of blogging
   * Introduction to wordpress
-  * Your blog is at yournetid.imnyuad.com/blog.  Follow the install instructions at that link (it should be fairly self explanatory).  If you are stuck you can watch this [video walkthrough](https://www.dropbox.com/s/mz1tt4guamnmgl9/wordpress.mov?dl=0).
+  * Your blog is at yournetid.nyuad.im/blog.  Follow the install instructions at that link (it should be fairly self explanatory).  If you are stuck you can watch this [video walkthrough](https://www.dropbox.com/s/mz1tt4guamnmgl9/wordpress.mov?dl=0).
   * [If you want to get a bit more into wordpress, you can start here](http://codex.wordpress.org/First_Steps_With_WordPress).
 * Supplemental Reading / Watching
   * Read p. 8-41 of Form + Code
