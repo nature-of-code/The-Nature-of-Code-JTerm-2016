@@ -57,6 +57,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ## Class 2 -- Drawing and Animation -- Tues, Jan 5
   * Drawing
+    * [Examples](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/tree/master/01_drawing)
     * Drawing with numbers: [video tutorial](https://vimeo.com/channels/learningp5js/137979314)
     * Shape and color functions: [video tutorial](https://vimeo.com/channels/learningp5js/137979312)
     * [Sol Lewitt](http://www.massmoca.org/lewitt/)
