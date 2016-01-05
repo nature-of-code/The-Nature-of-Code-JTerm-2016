@@ -29,18 +29,23 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * What is the potential for software within the visual arts?
   * As a ____________, why would I want or need to write software?
 * Programming language discussion
-  * history of Processing and p5.js (and processing.js?)
-* Basics of web development
-  * Landscape of HTML, CSS, and JavaScript?
+  * General discussion of programming languages
+  * History of creative coding frameworks
+      * Processing and p5.js (and what's processing.js?): [What is p5.js video](https://vimeo.com/channels/learningp5js/137979313)
+      * openframeworks, cinder
+      * max/msp dataflow programming
+      * How does arduino fit in?
+* p5.js in the context of the browser
+  * Landscape of HTML, CSS, and JavaScript
+  * Other JS frameworks
+  * Server-side vs. client-side
+  * What is the difference between p5 and JavaScript?
   * Development options -- [p5.js web IDE](https://github.com/therewasaguy/p5js-webIDE), [p5.js desktop IDE](https://github.com/processing/p5.js-editor), [your own local server](https://github.com/processing/p5.js/wiki/Local-server)
   * Though this will be unnecessary since we are using the web IDE, you might also want to check out [how to upload](https://github.com/ITPNYU/ICM-2015/wiki/SFTP-Tutorial)
-* What is git and github?
-* [Drawing with numbers](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp01_drawing)
-  * Coordinate Systems
-  * Shapes
-  * Color
-  * Code
-  * [Sol Lewitt](http://www.massmoca.org/lewitt/)
+* Participating in an open-source community
+  * What are git and github?
+  * When should you post to a forum vs. file a github issue?
+  * Who makes these things?
 * Basics of blogging
   * Introduction to wordpress
   * Your blog is at yournetid.nyuad.im/blog.  Follow the install instructions at that link (it should be fairly self explanatory).  If you are stuck you can watch this [video walkthrough](https://www.dropbox.com/s/mz1tt4guamnmgl9/wordpress.mov?dl=0).
@@ -49,47 +54,55 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * Read p. 8-41 of Form + Code
   * Getting Started with p5.js: Chapters 1-3
   * [Videos 1.0-1.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-* [Homework 1](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Assignment-1)
 
-## Class 2 -- Animation -- Tues, Jan 5
-* [The flow: code blocks, setup, draw, and events](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp03_flow)
-* Variation: mouseX, mouseY
-* [Variables: Declare, Initialize, Use](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp04_variables)
-* JavaScript objects
-* [random()](http://p5js.org/reference/#/p5/random)
-* [map()](http://p5js.org/reference/#/p5/map) 
-- [Transformations](https://processing.org/tutorials/transform2d/)
-  - [in class example](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/tree/master/inclass/Jan07/01_transformation)
-- [Conditionals](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp05_conditionals)
-    - If, else if, else
-    - Boolean variables
-    - Relational Operators, Logical Operators
-    - Buttons, rollovers, switches
-- [Loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
-  - while
-  - for
-* Supplemental Reading / Watching
-  * to come
-* Homework 2
+## Class 2 -- Drawing and Animation -- Tues, Jan 5
+  * Drawing
+    * Drawing with numbers: [video tutorial](https://vimeo.com/channels/learningp5js/137979314)
+    * Shape and color functions: [video tutorial](https://vimeo.com/channels/learningp5js/137979312)
+    * [Sol Lewitt](http://www.massmoca.org/lewitt/)
+  - Program flow (what's a function?)
+    - Setup, draw, and other events
+    - Variation: mouseX and mouseY
+    - [video tutorial](https://vimeo.com/channels/learningp5js/138327548)
+  - More about variables
+    - make your own variables (numbers and strings), [video tutorial](https://vimeo.com/channels/learningp5js/138331676)
+    - JS objects (variables inside variables), [video tutorial](https://vimeo.com/channels/learningp5js/138327558)
+  - [random()](http://p5js.org/reference/#/p5/random), [video tutorial](https://vimeo.com/channels/learningp5js/138327559)
+  - [map()](http://p5js.org/reference/#/p5/map), [video tutorial](https://vimeo.com/channels/learningp5js/138331801)
+  - [Transformations](http://www.genekogan.com/code/p5js-transformations/)
+  * Supplemental Reading / Watching
+    * to come
+  * [Homework 1](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Assignment-1)
 
-## Class 3 -- Functions -- Wed, Jan 6
-- [Functions](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions)
-  - Re-usability
-  - Modularity
-  - Calling vs. Defining
-  - Parameter Passing
-  - Return types
-  - Recursion
-    - [Fractals](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp08_fractals)
-  - Event functions
-    - [MousePressed & KeyPressed](http://www.learningprocessing.com/examples/chapter-3/example-3-5/)
-- [More on randomness and Perlin Noise]()
-- Intro to Objects
-- Reading
-  - Chapter 8 of Learning Processing or [Processing OOP tutorial](https://processing.org/tutorials/objects/)
-  - [Nature of Code Introduction](http://natureofcode.com/book/introduction/)
-  - ["Hackers and Painters"](http://www.paulgraham.com/hp.html) by Paul Graham
-* [Homework 3]
+## Class 3 -- Interaction and Functions -- Wed, Jan 6
+ - Conditional Statements
+      - Boolean expressions
+      - if statement
+      - relational operators
+      - [video tutorial](https://vimeo.com/channels/learningp5js/138935676)
+      - Case study, bouncing ball: [video tutorial](https://vimeo.com/channels/learningp5js/138935675)
+      - else, else if, and, or [video tutorial](https://vimeo.com/channels/learningp5js/138935678)
+      - buttons, rollovers, switches [video tutorial](https://vimeo.com/channels/learningp5js/138935677)
+  - Loops (while and for)
+      - while and for [video tutorial](https://vimeo.com/channels/learningp5js/139013336)
+      - nested loops [video tutorial](https://vimeo.com/channels/learningp5js/139013372)
+  - [Functions](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions)
+    - Re-usability
+    - Modularity
+    - Calling vs. Defining
+    - Parameter Passing
+    - Return types
+    - Recursion
+      - [Fractals](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp08_fractals)
+    - Event functions
+      - [MousePressed & KeyPressed](http://www.learningprocessing.com/examples/chapter-3/example-3-5/)
+  - [More on randomness and Perlin Noise]()
+  - Intro to Objects
+  - Reading
+    - Chapter 8 of Learning Processing or [Processing OOP tutorial](https://processing.org/tutorials/objects/)
+    - [Nature of Code Introduction](http://natureofcode.com/book/introduction/)
+    - ["Hackers and Painters"](http://www.paulgraham.com/hp.html) by Paul Graham
+  * [Homework 3]
 
 ## Class 4 -- Objects and Reproduction -- Thurs, Jan 7
 - Modulo
