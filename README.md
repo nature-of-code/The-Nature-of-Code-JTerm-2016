@@ -71,39 +71,32 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   - [random()](http://p5js.org/reference/#/p5/random), [video tutorial](https://vimeo.com/channels/learningp5js/138327559)
   - [map()](http://p5js.org/reference/#/p5/map), [video tutorial](https://vimeo.com/channels/learningp5js/138331801)
   - [Transformations](http://www.genekogan.com/code/p5js-transformations/)
-  * Supplemental Reading / Watching
-    * to come
-  * [Homework 1](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Assignment-1)
+  * [Reading / Homework]](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Assignment-1)
 
 ## Class 3 -- Interaction and Functions -- Wed, Jan 6
  - Conditional Statements
-      - Boolean expressions
-      - if statement
-      - relational operators
-      - [video tutorial](https://vimeo.com/channels/learningp5js/138935676)
-      - Case study, bouncing ball: [video tutorial](https://vimeo.com/channels/learningp5js/138935675)
-      - else, else if, and, or [video tutorial](https://vimeo.com/channels/learningp5js/138935678)
-      - buttons, rollovers, switches [video tutorial](https://vimeo.com/channels/learningp5js/138935677)
+    - Boolean expressions
+    - if statement
+    - relational operators
+    - [video tutorial](https://vimeo.com/channels/learningp5js/138935676)
+    - Case study, bouncing ball: [video tutorial](https://vimeo.com/channels/learningp5js/138935675)
+    - else, else if, and, or [video tutorial](https://vimeo.com/channels/learningp5js/138935678)
+    - buttons, rollovers, switches [video tutorial](https://vimeo.com/channels/learningp5js/138935677)
   - Loops (while and for)
-      - while and for [video tutorial](https://vimeo.com/channels/learningp5js/139013336)
-      - nested loops [video tutorial](https://vimeo.com/channels/learningp5js/139013372)
-  - [Functions](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions)
-    - Re-usability
-    - Modularity
-    - Calling vs. Defining
-    - Parameter Passing
-    - Return types
+    - while and for [video tutorial](https://vimeo.com/channels/learningp5js/139013336)
+    - nested loops [video tutorial](https://vimeo.com/channels/learningp5js/139013372)
+  - Functions
+    - Calling vs. defining
+    - Modularity: [video](https://vimeo.com/channels/learningp5js/139587733)
+    - Arguments and parameters
+    - Re-usability: [video](https://vimeo.com/channels/learningp5js/139587732)
+    - Return types: [video](https://vimeo.com/channels/learningp5js/139587730)
+    - Functions inside objects: [video](https://vimeo.com/channels/learningp5js/139587731)
     - Recursion
       - [Fractals](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp08_fractals)
-    - Event functions
-      - [MousePressed & KeyPressed](http://www.learningprocessing.com/examples/chapter-3/example-3-5/)
-  - [More on randomness and Perlin Noise]()
+  - More on randomness and perlin noise
   - Intro to Objects
-  - Reading
-    - Chapter 8 of Learning Processing or [Processing OOP tutorial](https://processing.org/tutorials/objects/)
-    - [Nature of Code Introduction](http://natureofcode.com/book/introduction/)
-    - ["Hackers and Painters"](http://www.paulgraham.com/hp.html) by Paul Graham
-  * [Homework 3]
+  * [Reading / Homework](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Assignment-2)
 
 ## Class 4 -- Objects and Reproduction -- Thurs, Jan 7
 - Modulo
