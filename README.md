@@ -82,10 +82,10 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
     - Case study, bouncing ball: [video tutorial](https://vimeo.com/channels/learningp5js/138935675)
     - else, else if, and, or [video tutorial](https://vimeo.com/channels/learningp5js/138935678)
     - buttons, rollovers, switches [video tutorial](https://vimeo.com/channels/learningp5js/138935677)
-  - Loops (while and for)
+ - Loops (while and for)
     - while and for [video tutorial](https://vimeo.com/channels/learningp5js/139013336)
     - nested loops [video tutorial](https://vimeo.com/channels/learningp5js/139013372)
-  - Functions
+ - Functions
     - Calling vs. defining
     - Modularity: [video](https://vimeo.com/channels/learningp5js/139587733)
     - Arguments and parameters
@@ -94,9 +94,9 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
     - Functions inside objects: [video](https://vimeo.com/channels/learningp5js/139587731)
     - Recursion
       - [Fractals](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp08_fractals)
-  - More on randomness and perlin noise
-  - Intro to Objects
-  * [Reading / Homework](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Assignment-2)
+ - More on randomness and perlin noise
+ - Intro to Objects
+ * [Reading / Homework](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Assignment-2)
 
 ## Class 4 -- Objects and Reproduction -- Thurs, Jan 7
 - Modulo
