@@ -12,6 +12,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * [p5.js web site](http://p5js.org)
 * [p5.js web editor](http://p5ide.herokuapp.com/editor)
 * [p5.js web editor github](https://github.com/therewasaguy/p5js-webIDE)
+* [Getting Started with p5 code](https://github.com/lmccart/gswp5.js-code)
 
 ## Field Trips
 * [Museum of Math](http://momath.org/) - Friday, Jan 8, details TBA
