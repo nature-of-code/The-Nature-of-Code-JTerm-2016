@@ -15,8 +15,8 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * [Getting Started with p5 code](https://github.com/lmccart/gswp5.js-code)
 
 ## Field Trips
-* [Museum of Math](http://momath.org/) - Friday, Jan 8, details TBA
-* [American Museum of Natural History](http://www.amnh.org/) - Tuesday, Jan 12, details TBA
+* [Museum of Math](http://momath.org/) - Friday, Jan 8, 2:00 - 3:30 pm (details DBA)
+* [American Museum of Natural History](http://www.amnh.org/) - Monday, Jan 11, details TBA
 * [New York Hall of Science](http://nysci.org/) - Friday, Jan 15 -- meet at the museum at 1:45pm.
 * [Eyebeam Art and Technology Center](http://eyebeam.org/) -- Tues, Jan 19
 * Possibly more TBA
