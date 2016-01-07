@@ -100,16 +100,24 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
  * [Reading / Homework](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Assignment-2)
 
 ## Class 4 -- Objects and Reproduction -- Thurs, Jan 7
+- Transformations
+- Perlin Noise
 - Modulo
-- [Objects](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp08_objects)
+- Object Oriented Programming
   - Principles and Theory (Encapsulation)
-  - JS literal object
-  - Object "constructor" function
-* [Homework 4](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-3)
+  - JS literal object: [video tutorial](https://www.youtube.com/watch?v=-e5h4IGKZRY&index=7&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+    * properties - name/value pairs
+    * functions inside objects
+    * `this` keyword
+  - Object "constructor" function: [video tutorial](https://www.youtube.com/watch?v=F3GeM_KrGjI&index=23&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+  - Clicking on objects: [video tutorial](https://www.youtube.com/watch?v=DEHsr4XicN8&index=26&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+  - Object intersection: [video 1](https://www.youtube.com/watch?v=uAfw-ko3kB8&index=28&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA), [video 2](https://www.youtube.com/watch?v=GY-c2HO2liA&index=29&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+* [Homework 3](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Assignment-3)
 
-## Class 5 -- Museum of Math Field Trip -- Fri, Jan 8
-
-## Class 6 -- Arrays and Loops -- Mon, Jan 11
+## Class 5 -- Arrays and Loops, Museum of Math Field Trip -- Fri, Jan 8
+- **New schedule!**
+  - **Class will meet at our usual location at ITP from 10:30am - 12:00pm**
+  - **We will then reconvene at the [Museum of Math](http://momath.org/) for a tour from 2:00-3:30pm**
 - [Review loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
   - while
   - for
@@ -123,30 +131,36 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
     - [Array tutorial from Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#Arrays)
     - [Array tutorial from JQuery](https://learn.jquery.com/javascript-101/arrays/)
     - For a JavaScript tutorial about arrays I would suggest [Chapter 4 of Eloquent JavaScript](http://eloquentjavascript.net/04_data.html) though I would warn that it gets a bit more advanced than what we need for p5.js sketches.    
-* [Homework 5](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-4)
+* [Homework 4](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-4)
 
-## Class 7 -- AMNH field trip -- Tues, Jan 12
+## Class 6 -- AMNH field trip -- Monday, Jan 11
+** Schedule TBA
+* [Homework 5](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-5)
 
-## Class 8 -- Images and Pixels -- Wed, Jan 13
-- There are video lessons in progress about these topics in Processing.  They cover all the same content but the syntax in JavaScript is different.  [Videos 15.0 - 15.9](http://icm.shiffman.net/15.0/)
+## Class 7 -- Images and Pixels and Second Story Trip -- Tues, Jan 12
+- **New schedule!**
+  - **Class will meet at our usual location at ITP from 10:00am - 11:15am**
+  - **We will then leave at 11:30 to head to [Second Story](http://secondstory.com/) for a tour starting at 12:00pm**
 - Images
-    - Load and display images
-    - Writing pixels to screen
-    - Reading image pixels, image processing: brightness, threshold, etc
-    - [Chapter 15 examples](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp15_images_pixels)
-    - In class exercise: make an interactive image processing filter
+  - There are video lessons in progress about these topics in Processing.  They cover all the same content but the syntax in JavaScript is different.  [Videos 15.0 - 15.9](http://icm.shiffman.net/15.0/)
+  - Load and display images
+  - Writing pixels to screen
+  - Reading image pixels, image processing: brightness, threshold, etc
+  - [Chapter 15 examples](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp15_images_pixels)
+  - In class exercise: make an interactive image processing filter
 - Video: 
-    - Live video (Capture) and movie playback (Movie)
-    - Drawing shapes on screen colored by pixels
-    - [Chapter 16 examples](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp16_video)
-    - Exercise: Make a mirror that paints your portrait
+  - Live video (Capture) and movie playback (Movie)
+  - Drawing shapes on screen colored by pixels
+  - [Chapter 16 examples](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp16_video)
+  - Exercise: Make a mirror that paints your portrait
 - Intro to Computer Vision
 - Related reading:
-    - [Computer Vision for Artists and Designers by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
-    - Learning Processing, Chapters 15-16
+  - [Computer Vision for Artists and Designers by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
+  - Learning Processing, Chapters 15-16
 * Homework 6
 
-## Class 9 -- Data -- Thurs, Jan 14
+## Class 8 -- Data and Rockwell Labs Visit -- Wed, Jan 13
+- **New schedule TBA!**
 * Intro to Data
   * review events and callbacks
 * [Loading local files](https://github.com/shiffman/itp-networked-media/tree/master/week4/01_loading_files)
@@ -159,8 +173,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * [Robyn's Instagram API How To](https://github.com/robynitp/networkedmedia/wiki/Instagram-API-How-to)
 * Homework 7
 
-## Class 10 -- Queens Hall of Science -- Friday, Jan 15
-* 10am-12pm: Intro to Physics
+## Class 9 -- Intro to Physics -- Thurs, Jan 114
   * [Vectors](http://natureofcode.com/book/chapter-1-vectors/)
   * [Forces](http://natureofcode.com/book/chapter-2-forces/)
   * [Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
@@ -170,11 +183,12 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
     * There are also the [Nature of Code videos](https://vimeo.com/channels/natureofcode).
   * [All examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
   * [Related and past projects](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Nature-of-Code-Related-and-Past-Projects)
-* 2pm: Meet at Queens Hall of Science
 * Homework 8
 
-## Class 11 --  Complexity (Agents, Fractals, CA, Evolution) -- Tuesday, Jan 19
-* **Meet at Eyebeam Art and Technology Center, details TBA**
+## Class 10 -- Queens Hall of Science -- Friday, Jan 15
+- **New schedule!**
+  - **Class will meet at our usual location at ITP from 10:00am - 11:30am**
+  - **We will then reconvene at the [NY Hall of Science](http://nysci.org/) for a tour from 2:00-3:30pm**
 * Complex Systems:
   * [Autonomous Agents](http://natureofcode.com/book/chapter-6-autonomous-agents/), [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp06_agents)
   * [Cellular Automata](http://natureofcode.com/book/chapter-7-cellular-automata/), [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp07_CA)
@@ -184,14 +198,18 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * Computational Beauty of Nature: Chapter 5-6, 15, 20
 * [Create a final project proposal](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Project-Proposal)
 
-## Class 12 - Final Project Proposals and Workshop - Wed, Jan 20
+## Class 11 --  Complexity (Agents, Fractals, CA, Evolution) -- Tuesday, Jan 19
+* **Meet at Eyebeam Art and Technology Center, details TBA**
 * Evolutionary Computing:
   * [Introduction to Genetic Algorithms](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
   * [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp09_ga)
 * [Final Project Proposal schedule TBA](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Project-Proposal)
 
-## Class 13 - Final Project Workshop and Presentations -- Thurs, Jan 21
+## Class 12 - Final Project Workshop - Wed, Jan 20
 * [Schedule TBA](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Final-Project-Workshop)
+
+## Class 13 - Final Project Workshop and Presentations -- Thurs, Jan 21
+* [Schedule TBA](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Final-Project-Presentations)
 
 ## Class 14 - Final Project Breakfast - Friday, Jan 22
 * 9:30 - 11:30: breakfast and exhibiton
