@@ -100,7 +100,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
  - Intro to Objects
  * [Reading / Homework](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Assignment-2)
 
-## Class 4 -- Objects and Reproduction -- Thurs, Jan 7
+## Class 4 -- Object Oriented Programming -- Thurs, Jan 7
 - Transformations
 - Perlin Noise
 - Modulo
