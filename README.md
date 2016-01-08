@@ -119,7 +119,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 - **New schedule!**
   - **Class will meet at our usual location at ITP from 10:30am - 12:00pm**
   - **We will then reconvene at the [Museum of Math](http://momath.org/) for a tour from 2:00-3:30pm**
-- [Review loops (while and for)
+- Review loops (while and for)
   - while and for [video tutorial](https://vimeo.com/channels/learningp5js/139013336)
   - nested loops [video tutorial](https://vimeo.com/channels/learningp5js/139013372)
 * What is an array? [video tutorial 6.1](https://vimeo.com/141211396)
@@ -129,11 +129,6 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * `length` property
 * An array of objects! [video tutorial 6.3](https://vimeo.com/141211395)
 * Adding and deleting from an array, `push()` and `splice()` [video tutorial. 6.5](https://vimeo.com/141211392), [video tutorial 6.8](https://vimeo.com/141919523)
-- Related Reading
-    - Chapters 6 and 9 from Learning Processing cover the same concepts in the Java programming language.
-    - [Array tutorial from Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#Arrays)
-    - [Array tutorial from JQuery](https://learn.jquery.com/javascript-101/arrays/)
-    - For a JavaScript tutorial about arrays I would suggest [Chapter 4 of Eloquent JavaScript](http://eloquentjavascript.net/04_data.html) though I would warn that it gets a bit more advanced than what we need for p5.js sketches.    
 * [Homework 4](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-4)
 
 ## Class 6 -- AMNH field trip -- Monday, Jan 11
