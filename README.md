@@ -119,14 +119,16 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 - **New schedule!**
   - **Class will meet at our usual location at ITP from 10:30am - 12:00pm**
   - **We will then reconvene at the [Museum of Math](http://momath.org/) for a tour from 2:00-3:30pm**
-- [Review loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
-  - while
-  - for
-- [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays)
-   - Resizing an array
-   - Other array functions
-- [A String is like an array of characters](http://shiffman.net/teaching/a2z/week1/#strings) 
-- [An image is like an array of pixels](http://p5js.org/reference/#/p5/pixels[]) 
+- [Review loops (while and for)
+  - while and for [video tutorial](https://vimeo.com/channels/learningp5js/139013336)
+  - nested loops [video tutorial](https://vimeo.com/channels/learningp5js/139013372)
+* What is an array? [video tutorial 6.1](https://vimeo.com/141211396)
+  * declaring, intializing
+  * numeric indices
+  * arrays and for loops: [video tutorial 6.2](https://vimeo.com/141211394)
+  * `length` property
+* An array of objects! [video tutorial 6.3](https://vimeo.com/141211395)
+* Adding and deleting from an array, `push()` and `splice()` [video tutorial. 6.5](https://vimeo.com/141211392), [video tutorial 6.8](https://vimeo.com/141919523)
 - Related Reading
     - Chapters 6 and 9 from Learning Processing cover the same concepts in the Java programming language.
     - [Array tutorial from Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#Arrays)
@@ -135,13 +137,13 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * [Homework 4](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-4)
 
 ## Class 6 -- AMNH field trip -- Monday, Jan 11
-** Schedule TBA
+** Meet at museum at 1:45pm, tour and planetarium from 2:00-4:00pm, time to explore 4-5:45pm.  Check e-mail for details.
 * [Homework 5](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-5)
 
 ## Class 7 -- Images and Pixels and Second Story Trip -- Tues, Jan 12
 - **New schedule!**
-  - **Class will meet at our usual location at ITP from 10:00am - 11:15am**
-  - **We will then leave at 11:30 to head to [Second Story](http://secondstory.com/) for a tour starting at 12:00pm**
+  - **Meet at 11am to go to [Second Story](http://secondstory.com/) for a tour starting at 12:00pm**
+  - **Regular class will be from 3-4:30pm**
 - Images
   - There are video lessons in progress about these topics in Processing.  They cover all the same content but the syntax in JavaScript is different.  [Videos 15.0 - 15.9](http://icm.shiffman.net/15.0/)
   - Load and display images
@@ -161,7 +163,8 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * Homework 6
 
 ## Class 8 -- Data and Rockwell Labs Visit -- Wed, Jan 13
-- **New schedule TBA!**
+  - **Meet at 10am to go to [Rockwell Labs](http://www.rockwellgroup.com/search/LAB) for a tour starting at 11:00am**
+  - **Regular class will be from 2-3:30pm**
 * Intro to Data
   * review events and callbacks
 * [Loading local files](https://github.com/shiffman/itp-networked-media/tree/master/week4/01_loading_files)
@@ -174,7 +177,8 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * [Robyn's Instagram API How To](https://github.com/robynitp/networkedmedia/wiki/Instagram-API-How-to)
 * Homework 7
 
-## Class 9 -- Intro to Physics -- Thurs, Jan 114
+## Class 9 -- Intro to Physics -- Thurs, Jan 14
+  * Regular class from 10am-1pm.
   * [Vectors](http://natureofcode.com/book/chapter-1-vectors/)
   * [Forces](http://natureofcode.com/book/chapter-2-forces/)
   * [Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
@@ -200,7 +204,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * [Create a final project proposal](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Project-Proposal)
 
 ## Class 11 --  Complexity (Agents, Fractals, CA, Evolution) -- Tuesday, Jan 19
-* **Meet at Eyebeam Art and Technology Center, details TBA**
+* **Meet at Eyebeam Art and Technology Center at 12pm, we will have class there until ~4pm**
 * Evolutionary Computing:
   * [Introduction to Genetic Algorithms](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
   * [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp09_ga)
