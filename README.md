@@ -178,7 +178,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * Homework 7
 
 ## Class 9 -- Intro to Physics -- Thurs, Jan 14
-  * Regular class from 10am-1pm.
+  * **Regular class from 11am-2pm.**
   * [Vectors](http://natureofcode.com/book/chapter-1-vectors/)
   * [Forces](http://natureofcode.com/book/chapter-2-forces/)
   * [Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
