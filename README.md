@@ -132,8 +132,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * [Homework 4](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-4)
 
 ## Class 6 -- AMNH field trip -- Monday, Jan 11
-** Meet at museum at 1:45pm, tour and planetarium from 2:00-4:00pm, time to explore 4-5:45pm.  Check e-mail for details.
-* [Homework 5](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-5)
+**Meet at museum at 1:45pm, tour and planetarium from 2:00-4:00pm, time to explore 4-5:45pm.  Check e-mail for details.**
 
 ## Class 7 -- Images and Pixels and Second Story Trip -- Tues, Jan 12
 - **New schedule!**
@@ -155,7 +154,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 - Related reading:
   - [Computer Vision for Artists and Designers by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
   - Learning Processing, Chapters 15-16
-* Homework 6
+* Homework 5
 
 ## Class 8 -- Data and Rockwell Labs Visit -- Wed, Jan 13
   - **Meet at 10am to go to [Rockwell Labs](http://www.rockwellgroup.com/search/LAB) for a tour starting at 11:00am**
@@ -170,7 +169,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * [List of possible data sources](https://github.com/ITPNYU/ICM-2014/wiki/Data-Links)
   * [p5.js notes: Loading-external-files:-AJAX,-XML,-JSON](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
   * [Robyn's Instagram API How To](https://github.com/robynitp/networkedmedia/wiki/Instagram-API-How-to)
-* Homework 7
+* Homework 6
 
 ## Class 9 -- Intro to Physics -- Thurs, Jan 14
   * **Regular class from 11am-2pm.**
@@ -183,7 +182,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
     * There are also the [Nature of Code videos](https://vimeo.com/channels/natureofcode).
   * [All examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
   * [Related and past projects](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Nature-of-Code-Related-and-Past-Projects)
-* Homework 8
+* Homework 7
 
 ## Class 10 -- Queens Hall of Science -- Friday, Jan 15
 - **New schedule!**
