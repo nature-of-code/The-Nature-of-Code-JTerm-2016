@@ -139,22 +139,22 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   - **Meet at 11am to go to [Second Story](http://secondstory.com/) for a tour starting at 12:00pm**
   - **Regular class will be from 3-4:30pm**
 - Images
-  - There are video lessons in progress about these topics in Processing.  They cover all the same content but the syntax in JavaScript is different.  [Videos 15.0 - 15.9](http://icm.shiffman.net/15.0/)
+  - There are video lessons in progress about these topics in Processing.  They cover all the same content but the syntax in JavaScript is different.  [Videos 15.0 - 15.9](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YB9x6f23CBftiyx0u_5sO9)
   - Load and display images
   - Writing pixels to screen
   - Reading image pixels, image processing: brightness, threshold, etc
   - [Chapter 15 examples](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp15_images_pixels)
   - In class exercise: make an interactive image processing filter
-- Video: 
-  - Live video (Capture) and movie playback (Movie)
-  - Drawing shapes on screen colored by pixels
+- Video and sound: 
+  - [Code Examples](https://github.com/ITPNYU/ICM-2015/raw/master/09_video_sound/09_video_sound.zip)
+  - [p5.sound reference](http://p5js.org/reference/#/libraries/p5.sound)
+  - [Video/capture: p5.MediaElement reference](http://p5js.org/reference/#/p5.MediaElement)
   - [Chapter 16 examples](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp16_video)
-  - Exercise: Make a mirror that paints your portrait
 - Intro to Computer Vision
 - Related reading:
   - [Computer Vision for Artists and Designers by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
   - Learning Processing, Chapters 15-16
-* Homework 5
+* Homework 5 TBA
 
 ## Class 8 -- Data and Rockwell Labs Visit -- Wed, Jan 13
   - **Meet at 10am to go to [Rockwell Labs](http://www.rockwellgroup.com/search/LAB) for a tour starting at 11:00am**
