@@ -8,7 +8,7 @@ var canvas;
 function setup() {
 
   // You only need this on retina computers
-  devicePixelScaling(false);
+  pixelDensity(1);
   
   // setup canvas
   canvas = createCanvas(320, 240);
@@ -22,6 +22,7 @@ function setup() {
 
 function draw() {
   background(0);
+  video.loadPixels();
   // Draw the video
   image(video,0,0);
 

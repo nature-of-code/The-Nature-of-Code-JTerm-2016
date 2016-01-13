@@ -21,8 +21,8 @@ function preload() {
 }
 
 function setup() {
-  devicePixelScaling(false);
   createCanvas(480, 320);
+  pixelDensity(1);
 }
 
 function draw() {

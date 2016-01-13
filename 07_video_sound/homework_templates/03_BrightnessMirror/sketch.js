@@ -19,14 +19,15 @@ function setup() {
   cols = width/videoScale;
   rows = height/videoScale;
 
-  devicePixelScaling(false);
+  pixelDensity(1);
   video = createCapture(VIDEO);
   video.size(cols,rows);
-  video.hide();
+  //video.hide();
 }
 
 function draw() {
   background(0);
+  image(video, 0, 0);
   video.loadPixels();
 
   // Begin loop for columns
