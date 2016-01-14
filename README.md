@@ -154,25 +154,19 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 - Related reading:
   - [Computer Vision for Artists and Designers by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
   - Learning Processing, Chapters 15-16
-* Homework 5 TBA
+* [Homework 5](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-5)
 
 ## Class 8 -- Data and Rockwell Labs Visit -- Wed, Jan 13
   - **Meet at 10am to go to [Rockwell Labs](http://www.rockwellgroup.com/search/LAB) for a tour starting at 11:00am**
   - **Regular class will be from 2-3:30pm**
 * Intro to Data
-  * review events and callbacks
-* [Loading local files](https://github.com/shiffman/itp-networked-media/tree/master/week4/01_loading_files)
+  * events and callbacks
 * Query strings
 * Web services: AJAX, JSON, and APIs
-  * [Simple JSON examples](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/tree/master/examples/10_data/00_localfiles)
-  * [API examples](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/tree/master/examples/10_data/01_external_data)
-  * [List of possible data sources](https://github.com/ITPNYU/ICM-2014/wiki/Data-Links)
-  * [p5.js notes: Loading-external-files:-AJAX,-XML,-JSON](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
-  * [Robyn's Instagram API How To](https://github.com/robynitp/networkedmedia/wiki/Instagram-API-How-to)
-* Homework 6
+* [Homework 6](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-6)
 
 ## Class 9 -- Intro to Physics -- Thurs, Jan 14
-  * **Regular class from 11am-2pm.**
+  * **Regular class from 11am-2pm. At 1 pm we'll have lunch and presentations by ITP students.**
   * [Vectors](http://natureofcode.com/book/chapter-1-vectors/)
   * [Forces](http://natureofcode.com/book/chapter-2-forces/)
   * [Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
@@ -182,7 +176,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
     * There are also the [Nature of Code videos](https://vimeo.com/channels/natureofcode).
   * [All examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
   * [Related and past projects](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Nature-of-Code-Related-and-Past-Projects)
-* Homework 7
+* [Homework 7](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-7)
 
 ## Class 10 -- Queens Hall of Science -- Friday, Jan 15
 - **New schedule!**
@@ -195,7 +189,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * Reading:
   * [Craig Reynolds Steering Behavior](http://www.red3d.com/cwr/steer/)
   * Computational Beauty of Nature: Chapter 5-6, 15, 20
-* [Create a final project proposal](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Project-Proposal)
+* [Create a final project proposal](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Project-Proposal)
 
 ## Class 11 --  Complexity (Agents, Fractals, CA, Evolution) -- Tuesday, Jan 19
 * **Meet at Eyebeam Art and Technology Center at 12pm, we will have class there until ~4pm**
