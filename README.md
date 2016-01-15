@@ -186,6 +186,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * [Autonomous Agents](http://natureofcode.com/book/chapter-6-autonomous-agents/), [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp06_agents)
   * [Cellular Automata](http://natureofcode.com/book/chapter-7-cellular-automata/), [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp07_CA)
   * [Fractals](http://natureofcode.com/book/chapter-8-fractals/), [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp08_fractals)
+* [Nature of Code p5.js chapter 6 examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp06_agents)
 * Reading:
   * [Craig Reynolds Steering Behavior](http://www.red3d.com/cwr/steer/)
   * Computational Beauty of Nature: Chapter 5-6, 15, 20
