@@ -192,21 +192,24 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * Computational Beauty of Nature: Chapter 5-6, 15, 20
 * [Create a final project proposal](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Project-Proposal)
 
-## Class 11 --  Complexity (Agents, Fractals, CA, Evolution) -- Tuesday, Jan 19
+## Class 11 -- Final Project Proposals -- Tuesday, Jan 19
 * **Meet at Eyebeam Art and Technology Center at 12pm, we will have class there until ~4pm**
-* Evolutionary Computing:
-  * [Introduction to Genetic Algorithms](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
-  * [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp09_ga)
 * [Final Project Proposal](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Project-Proposal)
 
 ## Class 12 - Final Project Workshop - Wed, Jan 20
-* [Schedule TBA](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Final-Project-Workshop)
+* [ITP Unconference Schedule](http://itp.nyu.edu/unconference/)
+* Evolutionary Computing session at 2pm in room 50
+  * [Introduction to Genetic Algorithms](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
+  * Also Chapter 20 in Computational Beauty of Nature
+  * [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp09_ga)
+* [Workshop Schedule](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Final-Project-Workshop)
 
 ## Class 13 - Final Project Workshop and Presentations -- Thurs, Jan 21
-* [Schedule TBA](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Final-Project-Presentations)
+* [Final Project Presentations](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Final-Project-Presentations)
 
 ## Class 14 - Final Project Breakfast - Friday, Jan 22
 * 9:30 - 11:30: breakfast and exhibiton
+* Don't forget to [add your documentation links](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Final-Project-Presentations)!
 
 ## Expectations
 * Assignments will include readings, programming exercises, and written documentation of your work.
