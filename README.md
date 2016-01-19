@@ -205,6 +205,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * [Workshop Schedule](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Final-Project-Workshop)
 
 ## Class 13 - Final Project Workshop and Presentations -- Thurs, Jan 21
+* [ITP Unconference Schedule](http://itp.nyu.edu/unconference/)
 * [Final Project Presentations](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016/wiki/Final-Project-Presentations)
 
 ## Class 14 - Final Project Breakfast - Friday, Jan 22
